@@ -1,0 +1,7 @@
+EmployeeID     FirstName LastName      Salary
+0001101221     Minh      Nguyen          40,000
+0007101221     Min       Nuyen          80,000
+0289734431     George    Elassal          40,000
+1234567897     Jonathan  Cerniaz       50,000
+0983748214     Meow       McJohnson       69,420
+7434857455     Bark       DoctorJay    150.23
